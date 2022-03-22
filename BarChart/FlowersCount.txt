@@ -1,0 +1,21 @@
+Kind of flower
+Number of flowers in the garden 
+18
+Rose 29
+Tulip 23
+Lily 19
+Orchid 17
+Lotus 13
+Jasmine 11
+Daisy 7
+Sunflower 5
+Magnolia 3
+Lavender 0
+Marigold 10
+Crossandra 1
+Balsam 4
+Hibiscus 3
+Periwinkle 20
+Chamomile 2
+Dahlia 1
+Clover 10

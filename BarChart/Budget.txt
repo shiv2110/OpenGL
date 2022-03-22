@@ -1,0 +1,12 @@
+Ministry
+Budget in Million Dollors
+9
+Defence 5
+Consumer 2
+Road 2
+Home 2
+Railways 4
+Rural 3
+Agriculture 2
+Chemicals 2
+Communications 2
